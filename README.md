@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitkain7
 - 👀 I’m interested in bockchain technology
-- 🌱 I’m currently blockchain
+- 🌱 I’m currently studying  blockchain
 - 💞️ I’m looking to collaborate on blockchain project
 - 📫 How to reach me ...
 
